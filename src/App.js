@@ -23,6 +23,7 @@ function App() {
   const handleOpenMenu = () => {
     const navbar = document.querySelector(".navbar");
     const menuButton = document.querySelector(".menu-button");
+
     navbar.classList.toggle("open");
 
     if (navbar.classList.contains("open")) {
@@ -37,7 +38,7 @@ function App() {
         <div className="lg:flex lg:items-start lg:justify-start">
           <img src={logo} alt="" className="lg:mr-5" />
           <nav className="navbar">
-            <div className="ld:hidden">
+            <div>
               <button
                 onClick={() => setOpenFeatures(!openFeatures)}
                 className="flex items-center justify-start"
@@ -81,7 +82,7 @@ function App() {
                 )}
               </button>
               {openCompany && (
-                <ul className="mt-2 ml-3">
+                <ul className="mt-2 ml-3 lg:ml-0 lg:p-3 lg:shadow">
                   <li className="flex items-center justify-start text-sm mb-2">
                     History
                   </li>
@@ -153,6 +154,17 @@ function App() {
           </picture>
         </article>
       </section>
+      <div className="attribution">
+        Challenge by {""}
+        <a href="https://www.frontendmentor.io" target="blank" rel="noreferrer">
+          Frontend Mentor
+        </a>
+        . Coded by{" "}
+        <a href="https://www.linkedin.com/in/carolinemichaelsen/">
+          Caroline Michaelsen
+        </a>
+        .
+      </div>
     </>
   );
 }
