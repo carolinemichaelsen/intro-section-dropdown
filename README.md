@@ -5,8 +5,6 @@ Usando **React e Tailwind**, construí uma página intro responsiva navegação 
 
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <br>
-  <br>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -15,6 +13,10 @@ Usando **React e Tailwind**, construí uma página intro responsiva navegação 
 ## Preview
 <img src='/src/images/preview-desk.png'>
 <img src='/src/images/preview-mobile.png'>
+
+## Deploy
+[Link](https://intro-section-dropdown-iota.vercel.app/).
+ 
 
 ### Desenvolvido por
 
