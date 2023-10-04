@@ -1,7 +1,7 @@
 # Página intro com menu dropdown
 
 Neste projeto, desenvolvi a interface do site fictício **Snap**, uma plataforma voltada ao trabalho remoto. O design do projeto veio de um **desafio de Nível Junior** do [Frontend Mentor](https://www.frontendmentor.io). <br>
-Usando **React, Tailwind, CSS e HTML**, construí uma página intro responsiva navegação com menu dropdown. Mais detalhes na [página do desafio](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5).
+Usando **React e Tailwind**, construí uma página intro responsiva navegação com menu dropdown. Mais detalhes na [página do desafio](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5).
 
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
